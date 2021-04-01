@@ -1,1 +1,3 @@
-# Breast-Cancer-Dataset-using-Logistic-Regression
+# Dataset using Logistic Regression
+
+Breast cancer dataset
